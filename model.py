@@ -4,7 +4,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-from MADDPG.hyperparameters import *
+from parameters import *
 
 def hidden_init(layer):
     fan_in = layer.weight.data.size()[0]
