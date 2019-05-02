@@ -25,7 +25,30 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 1. Clone this repo
 
-2. Create and activate a conda environment with all necessary packages. These can also be found under the website from Unity/Udacity DRLND.
+2. Create and activate a conda environment with all necessary packages. These can also be found under the website from Unity/Udacity DRLND:
+- Anaconda
+- Python 3.6
+- A `conda` environment created as follows
+
+  - Linux or Mac:
+  ```
+  conda create --name drlnd python=3.6
+  source activate drlnd 
+  ```
+
+  - Windows
+  ```
+  conda create --name drlnd python=3.6 
+  activate drlnd
+  ```
+
+- Required dependencies
+
+```
+git clone https://github.com/udacity/deep-reinforcement-learning.git
+cd deep-reinforcement-learning/python
+pip install .
+```
 
 3. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip)
