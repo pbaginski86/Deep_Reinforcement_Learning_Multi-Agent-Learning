@@ -24,12 +24,8 @@ The environment is considered solved, when the average (over 100 episodes) of th
 ### Getting Started
 
 1. Clone this repo
-- run the following command `git clone https://github.com/ledgerW/tennis_drl.git`
 
-2. Create and activate a conda environment
-- cd into the repo
-- run the following command: `conda env create -f environment.yml`
-- activate env with WINDOWS: `activate drlnd`; MAC/LINUX: `source activate drlnd`
+2. Create and activate a conda environment with all necessary packages. These can also be found under the website from Unity/Udacity DRLND.
 
 3. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip)
