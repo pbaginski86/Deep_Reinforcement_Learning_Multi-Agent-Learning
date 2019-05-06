@@ -6,7 +6,7 @@ After using project 2 in combination with a Soft-Actor-Critic method that wasn't
 
 All information on parameters and model outputs can be found in the respective files in the repository. Please see below a plot of scores per episode, demonstarting the 0.5 average over 100 consecutive episodes.
 
-![DDPG Plot of Rewards](https://github.com/pbaginski86/Deep_Reinforcement_Learning_Multi-Agent-Learning/blob/master/download.png
+![DDPG Plot of Rewards](https://github.com/pbaginski86/Deep_Reinforcement_Learning_Multi-Agent-Learning/blob/master/download.png)
 
 Lastly, for future work:
 Additional work should go towards implementing the newest version of the Soft-Actor-Critic algorithm
