@@ -1,4 +1,4 @@
-# DRLND Project 3 Report (Collaboration and Competition)
+# DRLND - Collaboration and Competition
 
 ## Introduction
 
